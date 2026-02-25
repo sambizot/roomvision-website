@@ -3,6 +3,6 @@
     { "src": "/about", "dest": "/about.html" },
     { "src": "/privacy", "dest": "/privacy.html" },
     { "src": "/support", "dest": "/support.html" }
-    {"src": "/terms", "dest": "/terms.html"}
+    { "src": "/terms", "dest": "/terms.html"}
   ]
 }
